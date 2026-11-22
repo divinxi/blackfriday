@@ -1,0 +1,19 @@
+{
+  "name": "ShipReady 2026",
+  "url": "https://sprintcraft-studio.netlify.app/shipready/",
+  "description": "5 zero-build SaaS landing page templates in clean HTML, Tailwind CSS, and JS with live previews",
+  "category": "developer-tools",
+  "platforms": [
+    "web"
+  ],
+  "deal": "61% off All-Access Bundle ($19) or $7 per template",
+  "pricing": "one-time",
+  "price": {
+    "regular": 49,
+    "sale": 19,
+    "currency": "USD"
+  },
+  "discount": 61,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-01"
+}
