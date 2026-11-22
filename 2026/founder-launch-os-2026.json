@@ -1,0 +1,19 @@
+{
+  "name": "Founder Launch OS 2026",
+  "url": "https://sprintcraft-studio.netlify.app/founder-os/",
+  "description": "Complete Notion launch system plus an interactive 2x PNG Graphics Studio for Product Hunt, X, and LinkedIn",
+  "category": "productivity",
+  "platforms": [
+    "web"
+  ],
+  "deal": "64% off Complete OS ($14 instead of $39)",
+  "pricing": "one-time",
+  "price": {
+    "regular": 39,
+    "sale": 14,
+    "currency": "USD"
+  },
+  "discount": 64,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-01"
+}
